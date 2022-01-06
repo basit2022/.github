@@ -1,12 +1,6 @@
-# Code of Conduct
-
-Please note that all interactions on
-[Python Software Foundation](https://www.python.org/psf-landing/)-supported
-infrastructure are [covered](https://www.python.org/psf/records/board/minutes/2014-01-06/#management-of-the-psfs-web-properties)
-by the [PSF Code of Conduct](https://www.python.org/psf/codeofconduct/),
-which includes all the infrastructure used in the development of Python itself
-(e.g. mailing lists, issue trackers, GitHub, etc.).
-
-In general, this means that everyone is expected to be **open**, **considerate**, and
-**respectful** of others no matter what their position is within the project.
-
+In [2]:from sklearn.cluster import KMeans
+import pandas as pd
+from sklearn.preprocessing import MinMaxScaler
+from matplotlib import pyplot as plt
+from sklearn.datasets import load_iris
+%matplotlib inline
